@@ -1,4 +1,4 @@
-# Event-search-App
+# Event-Search-App
 
 ## Brief Outline
 
